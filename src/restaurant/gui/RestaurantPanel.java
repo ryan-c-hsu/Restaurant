@@ -1,3 +1,5 @@
+
+
 package restaurant.gui;
 
 import restaurant.CustomerAgent;
@@ -112,12 +114,9 @@ public class RestaurantPanel extends JPanel {
 	   	 }
 		return nobody;
 		}
-	
+
 	public void middleMan(String customerName){
 		customerPanel.Reenable(customerName);
 	}
-	
+
 	}
-    
-
-
